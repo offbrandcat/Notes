@@ -6,7 +6,9 @@ This app assists in taking notes and prompoting organization.
 
 1. React
 2. Express
-3. JQuery
+3. DayJS
+4. JQuery
 
-##
+## Installation/Usage
 
+## Important Commands
